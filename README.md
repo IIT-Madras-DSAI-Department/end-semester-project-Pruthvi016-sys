@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/R05VM8Rg)
 # IIT-Madras-DA2401-Machine-Learning-Lab-End-Semester-Project
 
 ## 📌 Purpose of this Template
@@ -5,7 +6,7 @@
 This repository is the **starter** for your End Semester Project submission in GitHub Classroom. You can implement your solution and push your work in this repository. Please free to edit this README.md file as per your requirements.
 
 > **Scope (as per assignment brief):**
-> Give an introduction to your repository here: Eg. This repository contains a complete implementation for ...
+> This repository contains a complete implementation for XGBoost, KNN, SVM ensemble for MNIST classification
 
 ---
 
@@ -18,13 +19,15 @@ This repository is the **starter** for your End Semester Project submission in G
 ## 📁 Repository Structure
 
 * Describe your repository structure here. Explain about overall code organization.
-
+* algorithms.py
+* main.py
+* end_sem_test.ipynb
 ---
 
 ## 📦 Installation & Dependencies
 
 * Mention all the related instructions for installation of related packages for running your code here.
-
+* numpy, pandas, sklearn, time
 ---
 
 ## ▶️ Running the Code
@@ -34,6 +37,7 @@ All experiments should be runnable from the command line **and** reproducible in
 ### A. Command-line (recommended for grading)
 
 * Mention the instructions to run you .py files.
+* just run main.py file
   
 ---
 
@@ -43,7 +47,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**<MUDDA MANIKANTA PRUTHVI RAJ, DA24B016.>**, IIT Madras (2025–26)
 
 
 ## Best Practices:
